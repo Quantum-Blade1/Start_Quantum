@@ -819,10 +819,9 @@ furnished to do so, subject to the following conditions:
 
 ### Connect With Me
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
-- **Twitter/X**: [@yourhandle](https://twitter.com/yourhandle)
+- **GitHub**: [@Quantum-Blade1](https://github.com/Quantum-Blade1)
+- **LinkedIn**: [Krish Kumar Sharma](https://www.linkedin.com/in/krish-kumar-sharma-842419378/)
+- **Email**: krishkumarsharma72@gmail.com
 
 ### Feedback & Questions
 
@@ -838,7 +837,7 @@ If you use this repository in your research or educational work, please cite:
 
 ```bibtex
 @misc{quantumblade1,
-  author = {Your Name},
+  author = {Krish Krish Sharma},
   title = {Quantum Blade1: A Practical Approach to Quantum Computing},
   year = {2025},
   publisher = {GitHub},
