@@ -29,7 +29,7 @@ I am not saying that theory & Math's, Physics is irrelevant It is not. But for m
 
 ---
 
-## Syllabus -- Quantum Expert with Amazon Braket (QPIAI)
+## Syllabus - Quantum (QPIAI)
 
 This is the actual syllabus I am following. Each chapter maps to a folder in this repo.
 
