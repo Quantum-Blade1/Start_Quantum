@@ -126,6 +126,7 @@ But quantum is not competing with AI they are different layers of the stack AI i
 Data science, software engineering, and other tech areas are all founded on classical computing, Quantum does not replace any of these areas it simply provides a new tool for the toolbox and to be honest understanding classical computing in depth will make you a better in quantum computing, because you have to understand what you are comparing to.
 
 I decided to learn quantum not because I believe it to be superior to AI or any other area, but simply because it is a difficult problem that very few people are trying to solve, and I would like to be one of the people who actually understands it when it becomes mainstream.
+
 ---
 
 ## My Goals
