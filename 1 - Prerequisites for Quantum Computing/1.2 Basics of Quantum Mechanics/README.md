@@ -1,8 +1,7 @@
 # 1.2 Basics of Quantum Mechanics
 
-This section builds a deep theoretical foundation in quantum mechanics — from classical physics to the concepts that power quantum computing.
-
-No code. No frameworks. Just the physics, explained in simple English with real-world analogies.
+This section builds a deep theoretical foundation in quantum mechanics from classical physics to the concepts that power quantum computing.
+No code, No frameworks, Just the physics, explained in simple English with real-world analogies.
 
 ## Notebooks
 
@@ -28,3 +27,11 @@ Start from notebook 01 and go in order. Each notebook builds on the previous one
 ## Prerequisites
 
 Just curiosity. The math is kept to the essentials and always explained in plain English alongside the equations.
+
+## Learning Approach
+
+These notebooks focus on building deep intuition, not memorization. Every concept is introduced through:
+- **Historical context** — how and why each idea was discovered
+- **Real-world analogies** — connecting abstract physics to everyday experience
+- **Common misconceptions** — what people get wrong and why
+- **Connection to quantum computing** — why this physics matters for QC
