@@ -34,8 +34,8 @@ I am not saying that theory & Math's, Physics is irrelevant It is not. But for m
 This is the actual syllabus I am following. Each chapter maps to a folder in this repo.
 
 ### Chapter 1: Prerequisites for Quantum Computing
-- 1.1 Essential Linear Algebra
-- 1.2 Basics of Quantum Mechanics
+- 1.1 Essential Linear Algebra *(hands-on with NumPy & Qiskit)*
+- 1.2 Basics of Quantum Mechanics *(theory-heavy, 10 deep-dive notebooks)*
 - 1.3 General Lecture on Quantum Technology
 - 1.4 Essential Computer Science
 
