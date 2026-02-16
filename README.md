@@ -93,6 +93,12 @@ This is the actual syllabus I am following. Each chapter maps to a folder in thi
 
 Each folder has notes, and experiments as I work through.
 
+## Current Progress
+
+- ✅ **1.1 Essential Linear Algebra** — 8 hands-on notebooks (complex numbers → tensor products → Bell state capstone)
+- ✅ **1.2 Basics of Quantum Mechanics** — 10 theory-heavy notebooks (classical physics → quantum computing bridge)
+- 🔲 **1.3 onwards** — Coming soon
+
 ---
 
 ## My Views on Quantum Computing
