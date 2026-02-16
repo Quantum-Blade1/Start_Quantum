@@ -1,27 +1,30 @@
 # 1.2 Basics of Quantum Mechanics
 
-The four postulates of quantum mechanics are the rules that govern how qubits behave. If linear algebra was the language, these postulates are the grammar.
+This section builds a deep theoretical foundation in quantum mechanics — from classical physics to the concepts that power quantum computing.
+
+No code. No frameworks. Just the physics, explained in simple English with real-world analogies.
 
 ## Notebooks
 
-Work through these in order.
+| # | Topic | What You Will Learn |
+|---|-------|---------------------|
+| 01 | [Classical Physics](01_classical_physics.ipynb) | Newton's mechanics, energy, waves, electromagnetism, thermodynamics, fields, conservation laws — the world that quantum mechanics replaced |
+| 02 | [When Classical Physics Broke](02_when_classical_physics_broke.ipynb) | UV catastrophe, photoelectric effect, atomic spectra, atom stability, Compton effect, Stern-Gerlach — the experiments that broke classical physics |
+| 03 | [Birth of Quantum Theory](03_birth_of_quantum_theory.ipynb) | Planck's quantum, Einstein's photon, Bohr's atom, de Broglie waves, Heisenberg's matrix mechanics, Schrödinger's equation, Born's probability, Dirac's unification |
+| 04 | [Wave-Particle Duality](04_wave_particle_duality.ipynb) | Double-slit experiment, which-slit detector, delayed choice, quantum eraser, complementarity, Mach-Zehnder interferometer |
+| 05 | [The Wave Function](05_the_wave_function.ipynb) | What Ψ is, Born rule, normalization, Schrödinger equation, collapse, Bloch sphere, complex amplitudes, multi-particle wave functions |
+| 06 | [Superposition](06_superposition.ipynb) | What it means vs misconceptions, interference, quantum parallelism, decoherence, Schrödinger's cat, classical vs quantum randomness |
+| 07 | [Measurement & Uncertainty](07_measurement_and_uncertainty.ipynb) | Born rule, collapse, measurement problem, Heisenberg uncertainty, zero-point energy, quantum tunneling, no-cloning, Zeno effect |
+| 08 | [Quantum Entanglement](08_quantum_entanglement.ipynb) | Bell states, EPR paradox, Bell's theorem, no-communication theorem, teleportation, decoherence, entanglement in nature |
+| 09 | [Postulates of QM](09_postulates_of_quantum_mechanics.ipynb) | The four axioms: state space, evolution, measurement, composition. Density matrices. How postulates map to quantum computing |
+| 10 | [QM → Quantum Computing](10_from_qm_to_quantum_computing.ipynb) | Translation table, qubits as physics, gates as rotations, quantum algorithms, physical implementations, what QCs can and cannot do |
 
-| # | Notebook | What You Learn |
-|---|----------|---------------|
-| 01 | What is Quantum Mechanics? | Classical vs quantum, wave-particle duality, interference, uncertainty principle |
-| 02 | Postulate 1: State Space | Hilbert space, pure vs mixed states, Bloch sphere, global vs relative phase |
-| 03 | Postulate 2: Evolution | Unitary dynamics, Schrodinger equation, rotation gates (Rx, Ry, Rz), reversibility |
-| 04 | Postulate 3: Measurement | Born rule, wave function collapse, measurement bases, projection operators, no-cloning |
-| 05 | Postulate 4: Composition | Tensor products as physics, entanglement, Bell states, partial measurement |
-| 06 | QM in Action (Capstone) | Quantum teleportation from scratch using all four postulates, verified with Qiskit |
+## How to Read
 
-## Requirements
+Start from notebook 01 and go in order. Each notebook builds on the previous ones. The progression is:
 
-- Python 3
-- NumPy
-- SciPy (for notebook 03 -- matrix exponential)
-- Qiskit (for notebook 06)
+**Classical physics → Its failures → Quantum theory born → Core concepts (duality, wave function, superposition, measurement, entanglement) → Formal postulates → Bridge to quantum computing**
 
-```
-pip install numpy scipy qiskit
-```
+## Prerequisites
+
+Just curiosity. The math is kept to the essentials and always explained in plain English alongside the equations.
