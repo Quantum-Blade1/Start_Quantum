@@ -1,5 +1,7 @@
 # Start Quantum
 
+> *Last updated: February 2026*
+
 This is my personal learning repository for quantum computing. This is not a textbook, nor is it an attempt to be one. This is a set of things I've built, broken, fixed, and learned about along the way.
 
 ---
