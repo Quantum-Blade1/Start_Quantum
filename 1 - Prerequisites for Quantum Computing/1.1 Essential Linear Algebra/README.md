@@ -1,6 +1,8 @@
 # 1.1 Essential Linear Algebra
 
-Linear algebra is the language of quantum computing every qubit is a vector, every quantum gate is a matrix, and every measurement is an eigenvalue problem.
+Linear algebra is the language of quantum computing — every qubit is a vector, every quantum gate is a matrix, and every measurement is an eigenvalue problem.
+
+> **Tip:** Run the code cells yourself and experiment with different values. The best way to learn linear algebra for QC is by doing.
 
 ## Notebooks
 
